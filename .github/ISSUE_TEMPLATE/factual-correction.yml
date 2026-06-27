@@ -1,0 +1,38 @@
+name: 📝 Factual correction
+description: Report a factual error, misattribution, or broken claim in a published article.
+title: "[Correction]: "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us keep the record straight. Accuracy matters to us.
+  - type: input
+    id: location
+    attributes:
+      label: Where is the error?
+      description: Link to the page or repository, and name the section.
+      placeholder: https://the-qthe-standard.github.io/...
+    validations:
+      required: true
+  - type: textarea
+    id: current-text
+    attributes:
+      label: What does it currently say?
+      description: Quote the exact text that is wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it say?
+      description: Your proposed correction.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A citable reference that supports the correction (link, paper, book, report).
+    validations:
+      required: false

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Read the published library
+    url: https://the-qthe-standard.github.io
+    about: Browse our full library of articles before opening an issue.
+  - name: 💼 Connect on LinkedIn
+    url: https://www.linkedin.com/company/the-qhse-standard
+    about: General questions and discussion.
+  - name: 🔒 Report a security issue
+    url: https://github.com/the-qthe-standard/.github/security/advisories/new
+    about: Please report vulnerabilities privately, not as a public issue.

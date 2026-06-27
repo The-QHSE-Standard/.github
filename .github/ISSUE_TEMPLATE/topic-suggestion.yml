@@ -1,0 +1,42 @@
+name: 💡 Topic suggestion
+description: Suggest an incident, paradigm, or question for us to cover.
+title: "[Topic]: "
+labels: ["topic-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what you'd like to see covered and why it matters to practitioners.
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: A short title for the topic.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this matter?
+      description: Who would benefit, and what gap does it fill?
+    validations:
+      required: true
+  - type: dropdown
+    id: pillar
+    attributes:
+      label: Which pillar?
+      options:
+        - Quality
+        - Health
+        - Safety
+        - Environment
+        - Cross-cutting / not sure
+    validations:
+      required: false
+  - type: textarea
+    id: references
+    attributes:
+      label: References (optional)
+      description: Any reports, papers, or links that would help us research this.
+    validations:
+      required: false

@@ -37,12 +37,18 @@ Four foundational reads to recalibrate how you think about safety.
 | **The Silence That Kills** | The definitive guide to Psychological Safety. |
 | **The Safety Paradox** | Why your safety record might be luck in disguise. |
 
+➡️ Read all four in the [published library](https://the-qthe-standard.github.io).
+
 ## Repositories in this org
 
-- [**the-qhse-standard.github.io**](https://github.com/the-qhse-standard/the-qhse-standard.github.io) — the published library ([live site](https://the-qhse-standard.github.io))
-- [**forensic-library**](https://github.com/the-qhse-standard/forensic-library) — incident teardowns and case studies
-- [**strategic-briefings**](https://github.com/the-qhse-standard/strategic-briefings) — leadership-level analysis
-- [**operational-guides**](https://github.com/the-qhse-standard/operational-guides) — field-ready practical guides
+- [**the-qthe-standard.github.io**](https://github.com/the-qthe-standard/the-qthe-standard.github.io) — the published library ([live site](https://the-qthe-standard.github.io))
+- [**forensic-library**](https://github.com/the-qthe-standard/forensic-library) — incident teardowns and case studies
+- [**strategic-briefings**](https://github.com/the-qthe-standard/strategic-briefings) — leadership-level analysis
+- [**operational-guides**](https://github.com/the-qthe-standard/operational-guides) — field-ready practical guides
+
+## Get involved
+
+Spotted a factual error, or want to suggest a topic? [Open an issue](https://github.com/the-qthe-standard/.github/issues/new/choose) — see our [contribution guide](https://github.com/the-qthe-standard/.github/blob/main/CONTRIBUTING.md). Follow along on [LinkedIn](https://www.linkedin.com/company/the-qhse-standard).
 
 ---
 
