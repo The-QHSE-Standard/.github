@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "The QHSE Standard"
+message: "If you reference or build on this work, please cite it as below."
+type: dataset
+abstract: >-
+  A Synthetic Media Lab (AI-Native, Human-Curated) translating the science of
+  safety — Safety-II, Resilience Engineering, Human Factors, and Human &
+  Organizational Performance (HOP) — into practical, visual insight for
+  managers, engineers, and leaders.
+authors:
+  - family-names: Mitsios
+    given-names: Dimitris
+    affiliation: "The QHSE Standard"
+url: "https://the-qthe-standard.github.io"
+repository-code: "https://github.com/the-qthe-standard"
+license: CC-BY-4.0
+keywords:
+  - safety science
+  - Safety-II
+  - resilience engineering
+  - human factors
+  - human and organizational performance
+  - HOP
+  - quality
+  - health
+  - environment

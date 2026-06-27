@@ -50,6 +50,13 @@ Four foundational reads to recalibrate how you think about safety.
 
 Spotted a factual error, or want to suggest a topic? [Open an issue](https://github.com/the-qthe-standard/.github/issues/new/choose) — see our [contribution guide](https://github.com/the-qthe-standard/.github/blob/main/CONTRIBUTING.md). Follow along on [LinkedIn](https://www.linkedin.com/company/the-qhse-standard).
 
+## How we work
+
+- 📐 [**Editorial standard & transparency**](https://github.com/the-qthe-standard/.github/blob/main/EDITORIAL.md) — how AI-assisted drafting and human curation actually work here.
+- 📖 [**Glossary**](https://github.com/the-qthe-standard/.github/blob/main/GLOSSARY.md) — working definitions of the core concepts we publish about.
+- 🔖 Cite this work — see [`CITATION.cff`](https://github.com/the-qthe-standard/.github/blob/main/CITATION.cff).
+- ⚖️ Content licensed under [**CC BY 4.0**](https://github.com/the-qthe-standard/.github/blob/main/LICENSE) — reuse freely, with attribution.
+
 ---
 
 <p align="center">
