@@ -52,6 +52,7 @@ Spotted a factual error, or want to suggest a topic? [Open an issue](https://git
 
 ## How we work
 
+- ✍️ [**Who's behind this**](https://github.com/the-qthe-standard/.github/blob/main/AUTHORS.md) — the human curating the work, and the scope of our expertise.
 - 📐 [**Editorial standard & transparency**](https://github.com/the-qthe-standard/.github/blob/main/EDITORIAL.md) — how AI-assisted drafting and human curation actually work here.
 - 📖 [**Glossary**](https://github.com/the-qthe-standard/.github/blob/main/GLOSSARY.md) — working definitions of the core concepts we publish about.
 - 🔖 Cite this work — see [`CITATION.cff`](https://github.com/the-qthe-standard/.github/blob/main/CITATION.cff).
@@ -64,5 +65,5 @@ Spotted a factual error, or want to suggest a topic? [Open an issue](https://git
 </p>
 
 <p align="center">
-  <sub>Founder: Dimitris Mitsios · We communicate established paradigms; not bespoke operational safety advice.</sub>
+  <sub>Founder: <a href="https://github.com/the-qthe-standard/.github/blob/main/AUTHORS.md">Dimitris Mitsios</a> · We communicate established paradigms; not bespoke operational safety advice.</sub>
 </p>
