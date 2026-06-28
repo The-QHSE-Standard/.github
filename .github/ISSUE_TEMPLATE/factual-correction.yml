@@ -12,7 +12,7 @@ body:
     attributes:
       label: Where is the error?
       description: Link to the page or repository, and name the section.
-      placeholder: https://the-qthe-standard.github.io/...
+      placeholder: https://qhsestandard.com/...
     validations:
       required: true
   - type: textarea

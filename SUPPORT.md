@@ -12,7 +12,7 @@ Open a **Topic suggestion** issue:
 [new issue](https://github.com/the-qthe-standard/.github/issues/new/choose).
 
 ## I have a question about the content
-- Browse the [published library](https://the-qthe-standard.github.io).
+- Browse the [published library](https://qhsestandard.com).
 - Reach out on [LinkedIn](https://www.linkedin.com/company/the-qhse-standard).
 
 ## I think I found a security issue

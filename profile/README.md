@@ -3,17 +3,21 @@
 <p align="center"><strong>From Paper Reality to Operational Resilience</strong></p>
 
 <p align="center">
-  <a href="https://theqhsestandard.com">🌐 Website</a>
+  <a href="https://qhsestandard.com">🌐 Website</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/company/the-qhse-standard">💼 LinkedIn</a>
 </p>
 
 ---
 
-A **Synthetic Media Lab** — AI-Native, Human-Curated — translating the science of
-safety (Safety-II, Resilience Engineering, Human Factors, HOP) into practical, visual
-insight for managers, engineers, and leaders. We exist to bridge the gap between
-**Work-as-Imagined** (the procedures) and **Work-as-Done** (the reality).
+**The QHSE Standard** is a **Synthetic Media Lab** — AI-Native, Human-Curated —
+translating the science of safety across **Q**uality, **H**ealth, **S**afety, and
+**E**nvironment (QHSE) into practical, visual insight for managers, engineers, and
+leaders.
+
+We communicate established paradigms — **Safety-II**, **Resilience Engineering**,
+**Human Factors**, and **Human & Organizational Performance (HOP)** — to bridge the
+gap between **Work-as-Imagined** (the procedures) and **Work-as-Done** (the reality).
 
 > **Stop auditing the imagination. Start understanding the reality.**
 
@@ -37,11 +41,25 @@ Four foundational reads to recalibrate how you think about safety.
 | **The Silence That Kills** | The definitive guide to Psychological Safety. |
 | **The Safety Paradox** | Why your safety record might be luck in disguise. |
 
-➡️ Read all four in the [published library](https://the-qthe-standard.github.io).
+➡️ Read all four in the [published library](https://qhsestandard.com).
+
+## The science we translate
+
+We don't invent safety theory — we communicate the **established paradigms** that
+define modern safety science, faithful to the researchers who shaped them:
+
+| Paradigm | Key thinkers |
+| :--- | :--- |
+| **Safety-II & Resilience Engineering** | Erik Hollnagel · David Woods · Sidney Dekker |
+| **Human & Organizational Performance (HOP)** | Todd Conklin |
+| **Just Culture** | Sidney Dekker |
+| **Psychological Safety** | Amy Edmondson |
+| **Human Error & the Swiss Cheese Model** | James Reason |
+| **High Reliability Organizations (HRO)** | Karl Weick · Kathleen Sutcliffe |
 
 ## Repositories in this org
 
-- [**the-qthe-standard.github.io**](https://github.com/the-qthe-standard/the-qthe-standard.github.io) — the published library ([live site](https://the-qthe-standard.github.io))
+- [**the-qthe-standard.github.io**](https://github.com/the-qthe-standard/the-qthe-standard.github.io) — the published library ([live site](https://qhsestandard.com))
 - [**forensic-library**](https://github.com/the-qthe-standard/forensic-library) — incident teardowns and case studies
 - [**strategic-briefings**](https://github.com/the-qthe-standard/strategic-briefings) — leadership-level analysis
 - [**operational-guides**](https://github.com/the-qthe-standard/operational-guides) — field-ready practical guides
@@ -53,7 +71,7 @@ Spotted a factual error, or want to suggest a topic? [Open an issue](https://git
 ---
 
 <p align="center">
-  <strong>Full library → <a href="https://theqhsestandard.com">theqhsestandard.com</a></strong>
+  <strong>Full library → <a href="https://qhsestandard.com">qhsestandard.com</a></strong>
 </p>
 
 <p align="center">
