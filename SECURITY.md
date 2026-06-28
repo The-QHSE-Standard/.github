@@ -10,7 +10,7 @@ library site. We take the integrity and availability of that content seriously.
 Instead, report privately using
 [GitHub's private vulnerability reporting](https://github.com/the-qthe-standard/.github/security/advisories/new).
 If that is unavailable, contact us via
-[LinkedIn](https://www.linkedin.com/company/the-qhse-standard).
+[LinkedIn](https://www.linkedin.com/company/qhse-standard).
 
 When reporting, please include:
 
