@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post">
+  <div class="wrap wrap--narrow">
+    <header class="post-header">
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {%- if page.reading %} &middot; {{ page.reading }}{% endif %}
+      </p>
+      <h1 class="post-title">{{ page.title }}</h1>
+      {%- if page.subtitle %}
+      <p class="page-subtitle">{{ page.subtitle }}</p>
+      {%- endif %}
+    </header>
+    <div class="prose">
+      {{ content }}
+    </div>
+    <footer class="post-footer">
+      <a href="{{ '/notes/' | relative_url }}">&larr; All notes</a>
+    </footer>
+  </div>
+</article>

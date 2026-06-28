@@ -1,0 +1,20 @@
+<footer class="site-footer">
+  <div class="wrap site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">The QHSE Standard</p>
+      <p class="site-footer__tag">{{ site.tagline }}</p>
+    </div>
+
+    <nav class="site-footer__links" aria-label="Footer">
+      <a href="{{ site.website }}">Website</a>
+      <a href="{{ site.linkedin }}">LinkedIn</a>
+      <a href="{{ site.github_org }}">GitHub</a>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </nav>
+  </div>
+
+  <div class="wrap site-footer__fine">
+    <p>&copy; {{ 'now' | date: "%Y" }} The QHSE Standard. We communicate established
+      paradigms&nbsp;&mdash; not bespoke operational safety advice.</p>
+  </div>
+</footer>

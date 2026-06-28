@@ -1,0 +1,51 @@
+# --- Site settings -------------------------------------------------------
+title: The QHSE Standard
+tagline: From Paper Reality to Operational Resilience
+description: >-
+  A Synthetic Media Lab translating the science of safety across Quality,
+  Health, Safety, and Environment (QHSE) into practical, visual insight for
+  managers, engineers, and leaders.
+author: The QHSE Standard
+lang: en
+
+# Served as a project page from the `.github` repository.
+# Final URL: https://the-qhse-standard.github.io/.github/
+url: "https://the-qhse-standard.github.io"
+baseurl: "/.github"
+
+# External links surfaced in the header / footer.
+website: "https://qhsestandard.com"
+linkedin: "https://www.linkedin.com/company/qhse-standard"
+github_org: "https://github.com/the-qhse-standard"
+
+# --- Build settings ------------------------------------------------------
+markdown: kramdown
+permalink: /notes/:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+feed:
+  path: feed.xml
+
+# Front-matter defaults so pages/posts get the right layout automatically.
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+# Keep Jekyll's own scaffolding out of the published output.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
