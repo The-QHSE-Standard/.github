@@ -4,7 +4,7 @@ contact_links:
     url: https://qhsestandard.com
     about: Browse our full library of articles before opening an issue.
   - name: 💼 Connect on LinkedIn
-    url: https://www.linkedin.com/company/the-qhse-standard
+    url: https://www.linkedin.com/company/qhse-standard
     about: General questions and discussion.
   - name: 🔒 Report a security issue
     url: https://github.com/the-qthe-standard/.github/security/advisories/new

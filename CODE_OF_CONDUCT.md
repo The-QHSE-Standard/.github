@@ -50,7 +50,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the maintainers through
 [GitHub's private reporting](https://github.com/the-qthe-standard/.github/security/advisories/new)
 or by contacting the organization on
-[LinkedIn](https://www.linkedin.com/company/the-qhse-standard). All complaints
+[LinkedIn](https://www.linkedin.com/company/qhse-standard). All complaints
 will be reviewed and investigated promptly and fairly.
 
 ## Attribution

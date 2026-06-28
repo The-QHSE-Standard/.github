@@ -13,7 +13,7 @@ Open a **Topic suggestion** issue:
 
 ## I have a question about the content
 - Browse the [published library](https://qhsestandard.com).
-- Reach out on [LinkedIn](https://www.linkedin.com/company/the-qhse-standard).
+- Reach out on [LinkedIn](https://www.linkedin.com/company/qhse-standard).
 
 ## I think I found a security issue
 Please follow our [Security Policy](./SECURITY.md) — do **not** open a public

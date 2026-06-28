@@ -6,7 +6,7 @@ Safety, and Environment (QHSE)** into practical, visual insight for managers,
 engineers, and leaders.
 
 🌐 **Website:** [qhsestandard.com](https://qhsestandard.com) · 💼 **LinkedIn:**
-[The QHSE Standard](https://www.linkedin.com/company/the-qhse-standard)
+[The QHSE Standard](https://www.linkedin.com/company/qhse-standard)
 
 ## What's in this repository
 

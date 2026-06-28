@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://qhsestandard.com">🌐 Website</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/company/the-qhse-standard">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/company/qhse-standard">💼 LinkedIn</a>
 </p>
 
 ---
@@ -66,7 +66,7 @@ define modern safety science, faithful to the researchers who shaped them:
 
 ## Get involved
 
-Spotted a factual error, or want to suggest a topic? [Open an issue](https://github.com/the-qthe-standard/.github/issues/new/choose) — see our [contribution guide](https://github.com/the-qthe-standard/.github/blob/main/CONTRIBUTING.md). Follow along on [LinkedIn](https://www.linkedin.com/company/the-qhse-standard).
+Spotted a factual error, or want to suggest a topic? [Open an issue](https://github.com/the-qthe-standard/.github/issues/new/choose) — see our [contribution guide](https://github.com/the-qthe-standard/.github/blob/main/CONTRIBUTING.md). Follow along on [LinkedIn](https://www.linkedin.com/company/qhse-standard).
 
 ---
 
