@@ -1,0 +1,28 @@
+---
+layout: default
+title: Notes
+description: Short notes and updates from The QHSE Standard.
+permalink: /notes/
+---
+
+<div class="wrap wrap--narrow">
+  <header class="page-header">
+    <h1 class="page-title">Notes</h1>
+    <p class="page-subtitle">Short updates and working notes. The full library lives at
+      <a href="{{ site.website }}">qhsestandard.com</a>.</p>
+  </header>
+
+  {%- if site.posts.size > 0 %}
+  <ul class="note-list">
+    {%- for post in site.posts %}
+    <li class="note-list__item">
+      <time class="note-list__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      <a class="note-list__title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {%- if post.subtitle %}<p class="note-list__excerpt">{{ post.subtitle }}</p>{% endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+  {%- else %}
+  <p class="prose">No notes yet&nbsp;&mdash; check back soon.</p>
+  {%- endif %}
+</div>
